@@ -8,7 +8,7 @@ In this lesson, you were introduced to linear models. Specifically, you saw: <br
     * <b>Regularization</b> as a technique to assure that your models will not only fit<br>
     to the data available, but also extend to new situations.<br>
 <p>
-<h1><b> Outro </b><h1>
+<h1><b> Outro </b></h1>
 <p>
 In this lesson, you were predicting quantitative values. Predicting quantitative values is<br>
 often just condidered a <strong>Regression</strong> problem.

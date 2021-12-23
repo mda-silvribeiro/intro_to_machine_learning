@@ -1,4 +1,4 @@
-<h1><b> Recap </b><h1>
+<h1><b> Recap </b></h1>
 <p>
 In this lesson, you were introduced to linear models. Specifically, you saw: <br>
     * <b>Gradient Descent</b> as a method to optimize your linear models.<br>

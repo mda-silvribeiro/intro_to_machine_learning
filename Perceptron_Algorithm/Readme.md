@@ -1,7 +1,7 @@
 <div>
-<title><b>
+<h1><b>
     Perceptron Algorithm
-</title><br>
+</h1><br>
 <h4>
     The perceptron algorithm is an algorithm for classifying data.<br>
     It's the building block of neural

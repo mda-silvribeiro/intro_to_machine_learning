@@ -9,9 +9,9 @@
 <h3 style="color:green;">
     Classification Algorithm
 </h3>
-<h5><b>
+<h4><b>
     For example
-</b></h5>
+</b></h4>
 <p>
     Is this email spam or not?<br>
     Would this user download an app or not?<br>

@@ -1,5 +1,5 @@
 def lBoundaries( x, y) :
-    return (((2 * x) + (1 * y)) - 18)
+    return 2 * x + 1 * y - 18
 # this is a simple code for answer the question
 def trick(linex, liney, neg, x, y, bias):
     result = -1;

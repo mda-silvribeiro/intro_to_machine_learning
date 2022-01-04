@@ -1,7 +1,7 @@
 <div>
-<title><b>
+<h1><b>
     Perceptron Algorithm
-</title><br></h1>
+<br></h1>
 <h4>
     The perceptron algorithm is an algorithm for classifying data.<br>
     It's the building block of neural
@@ -9,9 +9,9 @@
 <h3 style="color:green;">
     Classification Algorithm
 </h3>
-<h5><b>
+<h4><b>
     For example
-</b></h5>
+</b></h4>
 <p>
     Is this email spam or not?<br>
     Would this user download an app or not?<br>
@@ -97,8 +97,8 @@
 </h1>
 <ul>
     <li> Quiz #1 (Yes)</li>
-    <img style="width:auto;" src="img/quiz1.png" alt="quiz1">
+    <img style="width:auto;" src="img/graph.png" alt="quiz1">
     <p><strong> How do we find this line? </strong></p>
-    <img style="width:auto;" src="img/explanation.png" alt="exp">
+    <img style="width:auto;" src="img/explanation1.png" alt="exp">
 </ul>
 </div>
